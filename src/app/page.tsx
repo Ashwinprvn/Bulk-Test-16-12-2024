@@ -10,7 +10,7 @@ export default function Home() {
 
       <div>
         <Link href= "https://www.elbrit.org/">
-          <Image src="/cropped-logo-original-2.png" alt="img" height={100} width={100} loading="lazy" className="p-2 ml-14"/>
+          <Image src="/cropped-logo-original-2.png" alt="img" height={100} width={100} loading="eager" className="p-2 ml-14"/>
         </Link>
       </div>
       <Header/>

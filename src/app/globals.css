@@ -9,10 +9,24 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffffff;
+    --foreground: #0a0a0a;
   }
 }
+@font-face {
+  font-family: 'Tafel Sans';
+  src: url('/fonts/tafel-sans-bold.woff2') format('woff2'),
+       url('/fonts/tafel-sans-bold.woff') format('woff'),
+       url('/fonts/tafel-sans-bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.font-tafel {
+  font-family: 'Tafel Sans', sans-serif;
+  font-weight: bold;
+}
+
 
 body {
   color: var(--foreground);

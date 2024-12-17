@@ -20,8 +20,8 @@ const Header = () => {
 
 
          
-          <div className="flex justify-center items-center object-fill">
-            <Image src="/f2-1.png.png" alt="img" width={150} height={300} className="transform scale-x-[-1]" priority />
+         <div className="flex justify-center items-center object-fill">
+            <Image src="/f2-1.png.webp" alt="img" width={150} height={300} className="transform scale-x-[-1]"/>
           </div>
 
 

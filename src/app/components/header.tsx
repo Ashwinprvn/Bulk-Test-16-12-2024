@@ -27,7 +27,7 @@ const Header = () => {
 
           <div className="flex flex-col justify-center space-y-1">
             <div className="bg-blue-200 flex flex-row" >
-              <Image src="/vitamin.png" width={20} height={1} alt="logo" className="object-contain"></Image>
+              <Image src="/vitamin.png" width={20} height={1} alt="logo" className="object-contain" loading="lazy"></Image>
               <div className="flex flex-col items-start">
                <p className="text-xxs font-tafel text-blue-900">Vitamins</p>
                <p className="text-xxxs ml-0.5">Increases Vitamis and</p>
@@ -35,7 +35,7 @@ const Header = () => {
               </div>
             </div>
             <div className="bg-blue-200 flex flex-row" >
-              <Image src="/machine.png" width={20} height={1} alt="logo" className="object-contain"></Image>
+              <Image src="/machine.png" width={20} height={1} alt="logo" className="object-contain" loading="lazy"></Image>
               <div className="flex flex-col items-start">
                <p className="text-xxs font-tafel text-blue-900">Weight Loss</p>
                <p className="text-xxxs ml-0.5">Weight Loss</p>
@@ -43,7 +43,7 @@ const Header = () => {
               </div>
             </div>
             <div className="bg-blue-200 flex flex-row" >
-              <Image src="/functional-foods.png" width={20} height={1} alt="logo" className="object-contain"></Image>
+              <Image src="/functional-foods.png" width={20} height={1} alt="logo" className="object-contain" loading="lazy"></Image>
               <div className="flex flex-col items-start">
                <p className="text-xxs font-tafel text-blue-900">Functional Foods</p>
                <p className="text-xxxs ml-0.5">Functional Foods</p>
@@ -55,8 +55,8 @@ const Header = () => {
             
             <div className="h-auto w-screen text-start items-start">
               <div className="flex space-x-1 ml-7 ">
-                <img src="/blue.png" className="h-5 w-5"></img>
-                <img src="/blue.png" className="h-5 w-5"></img>
+                <img src="/blue.png" className="h-5 w-5" loading="lazy"></img>
+                <img src="/blue.png" className="h-5 w-5" loading="lazy"></img>
               </div>
             </div>
 

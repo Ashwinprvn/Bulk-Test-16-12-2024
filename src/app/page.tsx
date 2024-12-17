@@ -10,7 +10,7 @@ export default function Home() {
 
       <div>
         <Link href= "https://www.elbrit.org/">
-          <Image src="/cropped-logo-original-2.png" alt="img" height={100} width={100} loading="lazy" className="p-2 ml-14"/>
+          <Image src="/cropped-logo-original-2.webp" alt="img" height={100} width={100} loading="eager" className="p-2 ml-14"/>
         </Link>
       </div>
       <Header/>
@@ -55,7 +55,7 @@ export default function Home() {
 
         </div>
         <div className="bg-white flex items-start mt-2">
-        <Image src="/cropped-logo-original-2.png" alt="img" height={100} width={100} loading="lazy" className="p-2"/>
+        <Image src="/cropped-logo-original-2.webp" alt="img" height={100} width={100} loading="lazy" className="p-2"/>
         <div className="bg-blue-900">
         <p className="text-white text-xxs"> Your health, physical and emotional well-being is important 
 to us. We are always by your side and have made it even 

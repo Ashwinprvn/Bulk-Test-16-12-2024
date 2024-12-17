@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bulk Test 16-12-2024",
-  description: "Bulk Test 16-12-2024",
+  title: "Bulk Test",
+  description: "Bulk Test",
 };
 
 export default function RootLayout({

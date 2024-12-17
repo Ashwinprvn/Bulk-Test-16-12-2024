@@ -21,7 +21,7 @@ const Header = () => {
 
          
          <div className="flex justify-center items-center object-fill">
-            <Image src="/f2-1.png.webp" alt="img" width={150} height={300} className="transform scale-x-[-1]"/>
+            <Image src="/f2-1.png.webp" alt="img" width={150} height={300} className="transform scale-x-[-1]" quality={75}/>
           </div>
 
 

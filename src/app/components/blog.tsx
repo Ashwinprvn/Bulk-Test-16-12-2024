@@ -2,7 +2,7 @@ const Blog = () => {
     return(
         <div className="flex flex-col items-center">
         <h1 className="font-sans font-bold text-sm text-blue-900">OUR BLOG</h1>
-        <h1 className="font-tafel text-green-900 ">Latest News</h1>
+        <h1 className="text-md font-bold text-green-900 ">Latest News</h1>
         <div className="flex flex-row justify-evenly mt-4 space-x-1">
           <div >
             <div className="w-[110px] h-[150px] bg-[url('/top.png')] bg-cover bg-center rounded-lg flex-col">

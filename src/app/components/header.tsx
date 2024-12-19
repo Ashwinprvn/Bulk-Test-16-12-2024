@@ -27,7 +27,7 @@ const Header = () => {
             width={150} 
             height={300} 
             className="transform scale-x-[-1]" 
-            quality={75} 
+            quality={50} 
             loading="eager"
           />
         </div>

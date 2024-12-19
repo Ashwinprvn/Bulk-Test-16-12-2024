@@ -17,6 +17,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -28,6 +29,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -41,6 +43,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -52,6 +55,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -65,6 +69,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -76,6 +81,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -89,6 +95,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">The Covid-19 Epidemic In 2023 Is Back</p>
@@ -100,6 +107,7 @@ const Blog = () => {
                 layout="fill" 
                 objectFit="cover" 
                 className="rounded-lg"
+                loading="lazy"
               />
               <p className="absolute text-white text-xxs bg-blue-900 px-2 py-1 rounded-r-3xl">20 APR</p>
               <p className="absolute top-6 text-white text-xxs font-bold px-2 justify-center">Hac hendrerit mus nons semper suspendisse</p>

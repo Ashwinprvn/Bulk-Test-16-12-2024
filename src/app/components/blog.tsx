@@ -6,7 +6,7 @@ const Blog = () => {
       <h1 className="font-sans font-bold text-sm text-blue-900">OUR BLOG</h1>
       <h1 className="text-md font-bold text-green-900">Latest News</h1>
 
-      <div className="flex flex-row justify-evenly mt-4 space-x-2">
+      <div className="flex flex-row justify-evenly mt-4 space-x-2 mb-2">
        
         <div  className="flex flex-row space-x-1">
           <div  className="flex flex-col space-y-2">

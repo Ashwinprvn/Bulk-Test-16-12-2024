@@ -12,7 +12,7 @@ const Header = () => {
             <div className="flex flex-col items-start justify-start">
                 <h1 className="text-xxs font-bold pl-2 font-tafel text-blue-900">Get Your Vitamins</h1>
                 <h1 className="text-xxs font-bold pl-2 font-tafel text-blue-900">& Minerals</h1>
-                <Link href= "https://www.elbrit.org/">
+                <Link href= "#">
                   <button className="rounded-full bg-blue-900 text-xs scale-75 text-white p-1 w-auto pl-4 pr-4 font-bold">Explore</button>
                 </Link>
             </div>
